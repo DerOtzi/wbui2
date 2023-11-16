@@ -1,0 +1,61 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0.65,0,1\">Welcome</>",
+          "title1": "Welcome to InsanePVP!",
+          "title2": "Settings",
+          "title3": "Rules",
+          "text1": "\n\n<TextStyle.LightBlue><TextStyle.LightBlue>This is a Speed PVP server. \nJoin our Discord to help us make the server better. \nIf u like to Donate pls join the Discord for more info.</>",
+          "text2": "<TextStyle.LightBlue>- 50Coins every 30min \n- Cave Building is allowed \n-high turret damage \n-fast breeding \n-use Cryo terminal to auto pickup babies</>",
+          "text3": "<TextStyle.LightBlue>Violating any of the following rules will result in a warning, kick, ban or Dinos/Structures/Tribe being deleted.\n\nGeneral:\n- Use common sense (like no meshing)\n- No hacking, exploiting or bug abusing. This includes under meshing/building outside the world borders and exploits like building into a base. \n- No spamming, racism, sexism, homophobia, or advertising in chat.\n- Aggressive or 'toxic' behavior is not welcome.\n- If a streamer is on the server, do not stream sniping them. If valid proof is given from the streamer, this will result with punishment.\n- Respect all players and try to get along.\n\nBuilding:\n- No under meshing/building outside the world borders and building into a base.\n- Building in artifacts/drops caves is allowed.\n- Blocking or preventing access to obelisks will result in all tribe structures to be removed.\n- No random Turrets\n- If u got raided and rebuild somewhere else, remove your old Base or u risk a Structure Wipe.\n\nRaiding:\n- no 3rd party raiding/defending.\n- Only 2 unmounted soakers at a time.\n- Do not cage anyone for longer than 30 minutes.\n- Do not raid the same tribe over and over, forcing them to quit. Everyone deserves a chance. Doing this will end in punishment.\n- Remove fobs after raid. \n\nIf you're not sure if something is allowed, just ask. \nIf you see a player violate the rules, please provide evidence and make a ticket in the discussion #tickets on Discord. \nAdmins will not restore lost items or dinos and have the last word.</>",
+          "imageurl": "https://i.imgur.com/SRpAvgy.jpg"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "<RichColor Color=\"1,0.65,0,1\">Drops</>",
+          "title1": "<TextStyle.LightBlue>Chance</>",
+          "title2": "<TextStyle.LightBlue>Air drops</>",
+          "title3": "<TextStyle.LightBlue>Extra</>",
+          "text1": "<TextStyle.LightBlue>White=Normal Airdrop\nWhite+=Ring Airdrop\n\nCave=30% Bp Chance\nAirdrop=50% Bp Chance\nAirdrop+=95% Bp Chance\nBoss=60%(Easy),80%(Medium),100%(Hard) Bp Chance\nWaterdrop=100% Bp Chance</>",
+          "text2": "<TextStyle.LightBlue>White\nWhite+\nGreen\nGreen+\nBlue\nBlue+\nYellow\nYellow+\nPurple\nPurple+\nRed\nRed+</>",
+          "text3": "<TextStyle.LightBlue>Brootmother\nEasy\nMedium\nHard\n\nMega\n\nDragon\n\nBeaverdam\nArtifakt\nWaterdrop</>",
+          "imageurl": "https://i.imgur.com/MWqwUYz.jpg"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 3,
+          "buttontext": "<RichColor Color=\"1,0.65,0,1\">Map</>",
+          "title1": "",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/kyE8d5p.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/qCEc23RYR5"
+        }
+      }
+    ]
+  }
+}
